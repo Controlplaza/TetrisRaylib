@@ -2,13 +2,13 @@
 #include <raylib.h>
 #include <vector>
 
-extern Color darkgrey;
-extern Color  green;
-extern Color red;
-extern Color orange;
-extern Color yellow;
-extern Color purple;
-extern Color cyan;
-extern Color blue;
-extern Color lightBlue;
-extern Color darkBlue;
+extern const Color darkGrey;
+extern const Color green;
+extern const Color red;
+extern const Color orange;
+extern const Color yellow;
+extern const Color purple;
+extern const Color cyan;
+extern const Color blue;
+extern const Color lightBlue;
+extern const Color darkBlue;

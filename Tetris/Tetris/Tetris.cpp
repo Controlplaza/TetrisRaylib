@@ -2,10 +2,12 @@
 //
 
 #include <iostream>
+#include <raylib.h>
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    InitWindow(500, 620, "raylib Tetris");
+    SetTargetFPS(60);
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
